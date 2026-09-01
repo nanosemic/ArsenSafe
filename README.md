@@ -16,6 +16,20 @@ ArsenSafe is a portable arsenic detection technology designed to identify arseni
 
 <br>
 
+# 🔥 Download 
+## Latest Release : 
+### v1.0 🎉
+[ArsenSafe_v1.0_production.apk](https://github.com/nanosemic/ArsenSafe/releases/download/v1.0/ArsenSafe_v1.0_production.apk)
+
+<br>
+
+All Releases :
+|Version|Download|Date|
+|-|-|-|
+|v1.0|[ArsenSafe_v1.0_production.apk](https://github.com/nanosemic/ArsenSafe/releases/download/v1.0/ArsenSafe_v1.0_production.apk)|Sep 1, 2026|
+
+<br>
+
 ## 📦 Installation
 
 Download the `.apk` file from releases and install it in your device
